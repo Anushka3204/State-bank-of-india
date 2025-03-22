@@ -1,11 +1,11 @@
-Here’s your improved README with **smaller images** using GitHub's markdown image resizing feature:  
+Here’s your updated **README** with **smaller images** and a **top margin** for better spacing:  
 
 ---
 
 # **SBI Website Redesign** 🚀  
 A modern redesign of the **State Bank of India (SBI) website**, offering a seamless user experience with an improved UI, smooth animations, and enhanced functionality using **React.js, Framer Motion, Lottie Animations, and Tailwind CSS**.
 
-🔗 **Live Demo:** https://state-bank-of-india.vercel.app/
+🔗 **Live Demo:** [SBI Redesign](https://state-bank-of-india.vercel.app/)  
 
 ---
 
@@ -61,29 +61,46 @@ This will start the **Vite development server**. Open **http://localhost:5173/**
 
 The app uses **React Router** for smooth client-side navigation.  
 
-### 🏠 **Landing Page (`/`)**  
-The home page provides an overview of SBI services and features.  
-<img src="https://github.com/user-attachments/assets/b108ae58-9e07-45a8-a9c2-f593e0b705d1" width="700"/>
+### 🏠 **Landing Page (`/`)** 
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/b108ae58-9e07-45a8-a9c2-f593e0b705d1" width="600"/>
+</p>
 
 ### 📝 **Signup Page (`/signup`)**  
+
 Click **Signup** on Navbar or **New User Registration/Activation** in Personal Banking.  
-<img src="https://github.com/user-attachments/assets/51fb4705-0511-40b5-bbb6-248aa154385b" width="700"/>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/51fb4705-0511-40b5-bbb6-248aa154385b" width="600"/>
+</p>
 
 ### 🔐 **Login Page (`/login`)**  
-Click **Login** on Navbar or the **Register** button on the Signup page.  
-<img src="https://github.com/user-attachments/assets/b1328f21-e691-4f4d-ab4f-a2b67bb4b72c" width="700"/>
 
-### 📊 **Account Summary (`/account_summary`)**  
+Click **Login** on Navbar or the **Register** button on the Signup page.  
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/b1328f21-e691-4f4d-ab4f-a2b67bb4b72c" width="600"/>
+</p>
+
+### 📊 **Account Summary (`/account_summary`)** 
+
 Click on the **Login** button to access account details.  
-<img src="https://github.com/user-attachments/assets/291a4877-a384-4682-ba00-76b41a959374" width="700"/>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/291a4877-a384-4682-ba00-76b41a959374" width="600"/>
+</p>
 
 ### 👤 **Profile (`/profile`)**  
+
 Click **Profile** in the sidebar to view and update details.  
-<img src="https://github.com/user-attachments/assets/262b159e-4416-4883-b85d-463187b97315" width="700"/>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/262b159e-4416-4883-b85d-463187b97315" width="600"/>
+</p>
 
 ### 📜 **Account Statement (`/account_statement`)**  
+
 Click **Account Statement** in the sidebar to view transaction history.  
-<img src="https://github.com/user-attachments/assets/8bc6c9d5-6df4-4088-9d79-fa9185712c63" width="700"/>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/8bc6c9d5-6df4-4088-9d79-fa9185712c63" width="600"/>
+</p>
 
 ---
 
