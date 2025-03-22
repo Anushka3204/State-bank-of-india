@@ -86,7 +86,7 @@ Click on the **Login** button to access account details.
 
 ### 👤 **Profile (`/profile`)**  
 
-Click **Profile** in the sidebar to view and update details.  
+Click **Profile** in the sidebar to view profile options.  
 <p align="center" style="margin-top: 20px;">
   <img src="https://github.com/user-attachments/assets/262b159e-4416-4883-b85d-463187b97315" width="600"/>
 </p>
