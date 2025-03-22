@@ -1,11 +1,7 @@
-Here’s your updated **README** with **smaller images** and a **top margin** for better spacing:  
-
----
-
 # **SBI Website Redesign** 🚀  
 A modern redesign of the **State Bank of India (SBI) website**, offering a seamless user experience with an improved UI, smooth animations, and enhanced functionality using **React.js, Framer Motion, Lottie Animations, and Tailwind CSS**.
 
-🔗 **Live Demo:** [SBI Redesign](https://state-bank-of-india.vercel.app/)  
+🔗 **Live Demo:** https://state-bank-of-india.vercel.app/
 
 ---
 
