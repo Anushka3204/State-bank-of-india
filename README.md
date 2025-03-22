@@ -23,8 +23,6 @@ A modern redesign of the **State Bank of India (SBI) website**, offering a seaml
 ✅ **Smooth Animations** – Powered by Framer Motion ✨  
 ✅ **Lottie Animations** – Lightweight & interactive JSON animations 🎬  
 ✅ **Fully Responsive** – Works on all screen sizes 📱💻  
-✅ **Authentication System** – Login & Signup pages 🔐  
-✅ **Account Management** – View account summary & transaction history 📊  
 ✅ **Carousel Sliders** – Implemented using react-responsive-carousel 🎠  
 ✅ **Date Picker** – Integrated with react-datepicker 📅  
 ✅ **Fast & Optimized** – Built with Vite for improved performance 🚀  
